@@ -7,4 +7,4 @@ welcome_sign = '''
        \/       \/          \/            \/     \/                            \/     \/          \/             
 '''
 
-welcome_message = 'Welcome, would you like to feed the animals?'
+welcome_message = 'Welcome, the zoo is populated by these Animals:'
