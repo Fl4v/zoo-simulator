@@ -30,7 +30,6 @@ class World:
 
         # Presenting stats to the user for first iteration
 
-        print(self.elephants_stats)
         self.output.animal_info(self.elephants_stats)
         self.output.animal_info(self.monkeys_stats)
         self.output.animal_info(self.giraffes_stats)
