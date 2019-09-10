@@ -4,6 +4,8 @@ This is a Zoo Simulator Project.
 
 You need `Python 3` installed on your machine to run the simulator. The application has been tested version: `3.7.2`
 
+I have tried using PEP8 standard for readability and easier editing.
+
 The application will run on your terminal.
 
 ## How to Run
